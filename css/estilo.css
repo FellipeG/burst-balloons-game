@@ -1,0 +1,54 @@
+#play {
+	cursor: pointer;
+}
+
+#block {
+	float: left; 
+	width: auto; 
+	height: 500px; 
+	background: #FFF; 
+	border: 1px solid #A2A2A2;
+}
+
+#block .tabela {
+	width: 100%; 
+	text-align: center;
+}
+
+#block .tabela2 {
+	width: 140px; 
+	height: 132px;
+}
+
+#block .tabela2 td {
+	background: url('../imagens/cronometro.png'); 
+	text-align: center;
+}
+
+.bold {
+	font-weight: bold; 
+}
+
+.tamanho1 {
+	font-size: 20px;
+}
+
+.tamanho2 {
+	font-size: 30px;
+}
+
+.green {
+	color: green;
+}
+
+.red {
+	color: red; 
+}
+
+.scenario {
+	float: left; 
+	background: url('../imagens/cenario.png'); 
+	height: 500px; 
+	width: 600px; 
+	background-position: bottom;
+}
